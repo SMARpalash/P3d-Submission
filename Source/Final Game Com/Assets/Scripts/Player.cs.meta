@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 84eafa803684f1646a97a6e35949404e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerSounds: {instanceID: 0}
+  - winSound: {fileID: 8300000, guid: 3f4ca95266c132b4cae3cf157c5377d9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
